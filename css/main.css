@@ -1,0 +1,115 @@
+.enlaces{
+	color:black;
+	display: inline-block;
+	margin-top: 11%;
+}
+form{
+	width:85%;
+	display: inline-block;
+	margin-top: 6%;
+}
+button{
+	float:right;
+	margin-top: -6%;
+}
+ul{
+	background-color:#eee6ff;
+	padding-top: 2%;
+}
+.active{
+	padding-left: 2%;
+}
+.menu{
+	color:black;
+}
+/*termina header*/
+.historia{
+	width: 30%;
+	height: auto;
+	background-color: gray;
+	color:white;
+	text-align: center;
+	margin-top: 3%;
+}
+.corta{
+	width: 2px;
+	height: 15px;
+	background-color: black;
+	margin-left: 10%;
+	margin-top: -5%;
+}
+.azul{
+	color:#cbb3ff;
+	margin-left: 12%;
+	margin-top: -7%;
+}
+.pazul{
+	color:#cbb3ff;
+}
+.largo{
+	width: 100%;
+	background-color:#cbb3ff; 
+}
+.cuadro-azul{
+	background-color:#eee6ff;
+	padding:2%;
+	margin-top: 5%;
+}
+.pgray{
+	color:gray;
+}
+.ver{
+	margin-left: 70%;
+}
+.webzone{
+	width: 100px;
+	text-align: center;
+	background-color: black;
+	color:white;
+}
+.recta-gde{
+	width: 100%;
+	height: 200px;
+	background-color:#eee6ff;
+	text-align: center;
+	padding-top: 20%; 
+}
+.agenda{
+	width: 30%;
+	height: auto;
+	background-color: gray;
+	color:white;
+	text-align: center;
+	margin-top: 5%;
+}
+.cuadro-enero{
+	width: 15%;
+	height:50px;
+	background-color: #eee6ff;
+	text-align:center;
+	margin-top: 6%;
+}
+.lorem{
+	margin-left: 17%;
+	margin-top: -12%;
+	font-size: 20px;
+}
+h3{
+	font-size: 20px;
+}
+.pazul1{
+	color:#cbb3ff;
+	margin-left: 17%;
+	margin-top: -5%;
+	font-size: 14px;
+}
+.fecha{
+	color:#cbb3ff;
+	margin-left: 17%;
+	margin-top: -2%;
+}
+.largo-negro{
+	width: 100%;
+	height: 5px;
+	background-color: black;
+}
